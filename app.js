@@ -11,8 +11,8 @@ var plan = require('./routes/plan');
 var user = require('./routes/user');
 var userSession = require('./routes/session');
 
-
 var app = express();
+
 
 var databaseUrl = 'mongodb://mt-db-001:WADtEMI1a1SjDloBULym1zfyw134F8qQwG5M9YtRujonIntadp7UNU6Gh5zNXTwzEvrfvzDa9Nb7akLQ7n2wZg==@mt-db-001.documents.azure.com:10255/best-for-you-organics?ssl=true&replicaSet=globaldb';
 
